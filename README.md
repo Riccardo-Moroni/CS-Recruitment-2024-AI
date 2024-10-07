@@ -13,8 +13,8 @@ In the README.md of each challenge you will find:
 - The challenge's maximum score, depending on its difficulty level
 
 List of challenges: 
-- Rock greatest hits ... 500pt
-- Walk this way ........ 500pt
+- `Rock Greatest Hits ... 500pt`
+- `Walk This Way ........ 500pt`
 
 GENERAL INSTRUCTIONS:
 - clone the repo ``git clone git@github.com:team-diana/CS-Recruitment-2024-AI.git``
