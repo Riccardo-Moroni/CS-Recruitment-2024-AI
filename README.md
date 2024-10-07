@@ -8,7 +8,7 @@ Being severly understaffed, the AARGH team has decided to outsource the developm
 
 ## Instructions
 
-You are given a Jupiter notebook with all the code you will need. Your task is to train a Reinfocement Learning agent to walk a cute quadruped robot on a somewhat harsh terrain. Most of the code is already written for you, but you will need to fill in the blanks, mainly focusing on the training function, but feel free to tweak each other block of code as you see fit.
+You are given a Jupyter notebook with all the code you will need. Your task is to train a Reinfocement Learning agent to walk a cute quadruped robot on a somewhat harsh terrain. Most of the code is already written for you, but you will need to fill in the blanks, mainly focusing on the training function, but feel free to tweak each other block of code as you see fit.
 
 Your model will be evaluated on an unknown test terrain.
 
