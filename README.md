@@ -12,6 +12,9 @@ In the README.md of each challenge you will find:
 - The expected deliverables
 - The challenge's maximum score, depending on its difficulty level
 
+List of challenges: 
+- Rock greatest hits ... 500pt
+- Walk this way ........ 500pt
 
 GENERAL INSTRUCTIONS:
 - clone the repo ``git clone git@github.com:team-diana/CS-Recruitment-2024-AI.git``
@@ -19,7 +22,7 @@ GENERAL INSTRUCTIONS:
 - from that, create your own PRIVATE repo.
 - Submit your code and expected outputs to your repo.
 - When you're done, give read permissions to DIANA's github account (https://github.com/TeamDiana).
-- On 00:00 of the 19th of October we will download all the submitted files.
+- On 23:59 of the 18th of October we will download all the submitted files.
 
 If you need help or assistance you can write to computer.science@teamdiana.it. We will try not to give any hint on the challenges but we're easily bribable.
 
