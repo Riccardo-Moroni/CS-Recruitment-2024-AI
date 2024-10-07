@@ -19,7 +19,7 @@ GENERAL INSTRUCTIONS:
 - from that, create your own PRIVATE repo.
 - Submit your code and expected outputs to your repo.
 - When you're done, give read permissions to DIANA's github account (https://github.com/TeamDiana).
-- On 00:00 of the 21st of October we will download all the submitted files.
+- On 00:00 of the 19th of October we will download all the submitted files.
 
 If you need help or assistance you can write to computer.science@teamdiana.it. We will try not to give any hint on the challenges but we're easily bribable.
 
