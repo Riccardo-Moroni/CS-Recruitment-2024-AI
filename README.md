@@ -21,4 +21,4 @@ Keep in mind that your model will be evaluated against a secret test set.
 
 ## Challenge's Score
 
-Total Score: 300
+Total Score: 500
