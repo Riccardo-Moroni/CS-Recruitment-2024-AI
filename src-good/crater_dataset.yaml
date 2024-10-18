@@ -1,0 +1,5 @@
+train: D:\data-science\z_related\team-diana\CS-Recruitment-2024-AI\split_dataset\train\images
+val: D:\data-science\z_related\team-diana\CS-Recruitment-2024-AI\split_dataset\val\images
+
+nc: 1  # number of classes
+names: ['crater']
